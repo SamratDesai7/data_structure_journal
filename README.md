@@ -1,4 +1,4 @@
-<h1 align="center">📘 Data Structure Journal (Java)</h1>
+<h1 align="center">📘 Data Structure Journal (C Language)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/SamratDesai7/data_structure_journal?color=blue&style=for-the-badge" />
@@ -10,12 +10,12 @@
 
 ## 📌 About This Repository
 
-This repository is a **complete journal** of Java programs based on **Data Structures**, created as part of coursework . It contains ready-to-run code, organized and well-commented, for each practical problem typically required in a **BCA** curriculum.
+This repository is a **complete journal** of C Language programs based on **Data Structures**, created as part of coursework . It contains ready-to-run code, organized and well-commented, for each practical problem typically required in a **BCA** curriculum.
 
 Perfect for:
 - 🧑‍🎓 Students preparing lab submissions  
 - 📚 Reference before exams  
-- 💻 Understanding core DSA logic through Java
+- 💻 Understanding core DSA logic through C Language
 
 ---
 
@@ -36,12 +36,12 @@ Perfect for:
 
 | 📂 Folder / File | 🔍 Description |
 |------------------|----------------|
-| `src/`           | Contains all `.java` source files |
-| `Practical_1.java` | Array operations |
-| `Practical_2.java` | Stack implementation |
-| `Practical_3.java` | Queue programs |
-| `Practical_4.java` | Linked list operations |
-| `Practical_5.java` | Tree traversal, BST |
+| `src/`           | Contains all `.C Language` source files |
+| `Practical_1.C Language` | Array operations |
+| `Practical_2.C Language` | Stack implementation |
+| `Practical_3.C Language` | Queue programs |
+| `Practical_4.C Language` | Linked list operations |
+| `Practical_5.C Language` | Tree traversal, BST |
 | ... | More journal programs |
 
 > 📄 Each program is labeled by **practical number** and includes **comments** for easy understanding.
